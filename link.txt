@@ -1,0 +1,5 @@
+* Official docs Flask
+https://flask.palletsprojects.com/en/2.2.x/
+
+* From RealPython
+https://github.com/mjhea0/flaskr-tdd
